@@ -14,9 +14,9 @@ and returns efficiently.
    Develop a MySQL based database to manage books,student records,issue-return logs,and generate reports.
 
 # Technologies Used
-  *Php
-  *MySql associated with Xampp
-  *VS Code
+     *Php
+     *MySql associated with Xampp
+     *VS Code
 # Tables created 
     admin - login credentials
     books - storing and managing books details
